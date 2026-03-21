@@ -1,0 +1,24 @@
+.booking {
+  min-height: 100vh;
+  background: #d7a9b3;
+  padding: 80px 20px;
+}
+
+.booking__container {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  color: #3a2238;
+}
+
+.booking__title {
+  margin: 0 0 20px;
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.booking__text {
+  margin: 0 0 32px;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
