@@ -25,6 +25,15 @@ function About() {
             her audience on the edge of her blade. Her performances are always a
             highlight of any show.
           </p>
+
+          <p>
+            But don’t let her dark and deranged stage persona fool you – offstage, 
+             Ms. Prozac is a kind and passionate trans woman who loves to connect with 
+             others and share her love of video games, burlesque and the macabre. If you’re a 
+             fan of spooky yet sexy, nerdy yet naughty, then you won’t want to miss you’re chance 
+             to see Ms. Anita Prozac in action. Trust us, she’ll have you stopping DEAD in your tracks 
+             to watch.
+          </p>
         </div>
       </div>
     </section>

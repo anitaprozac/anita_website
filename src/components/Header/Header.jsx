@@ -33,7 +33,7 @@ function Header() {
 
           <div className="socials">
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/anitaprozac/"
               target="_blank"
               rel="noreferrer"
               className="socials__link"
