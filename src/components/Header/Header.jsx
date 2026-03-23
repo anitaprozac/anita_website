@@ -41,7 +41,7 @@ function Header() {
               <FaInstagram />
             </a>
             <a
-              href="https://tiktok.com"
+              href="https://www.tiktok.com/@anita.prozac"
               target="_blank"
               rel="noreferrer"
               className="socials__link"
@@ -49,7 +49,7 @@ function Header() {
               <FaTiktok />
             </a>
             <a
-              href="https://facebook.com"
+              href="https://facebook.com/AnitaProzac"
               target="_blank"
               rel="noreferrer"
               className="socials__link"
